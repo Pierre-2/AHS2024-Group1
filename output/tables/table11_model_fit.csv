@@ -1,0 +1,4 @@
+Model,Dep. Variable,N,Log-Likelihood,AIC,BIC,Pseudo/R²
+Logit,Poor (binary),3460,-1761.9,3545.79,3613.43,0.0893
+Probit,Poor (binary),3460,-1759.69,3541.38,3609.02,0.0904
+OLS,Welfare Quintile,3460,-5465.79,10953.58,11021.22,0.1497
